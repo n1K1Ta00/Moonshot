@@ -60,3 +60,7 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+Moonshot/.DS_Store
+Moonshot.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+Moonshot.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+.DS_Store
